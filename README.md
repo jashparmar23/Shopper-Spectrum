@@ -20,6 +20,18 @@ Welcome to **Shopper Spectrum**, an AI-powered Streamlit dashboard that brings t
 
 ---
 
+---
+
+## 🖼️ Screenshots
+
+### 📌 Product Recommendation System
+![Product Recommendation](screenshots/product_recommendation.png)
+
+### 📌 Customer Segmentation Predictor
+![Customer Segmentation](screenshots/customer_segmentation.png)
+
+---
+
 ## 🧪 Tech Stack
 
 - 🐍 Python 3.10+
